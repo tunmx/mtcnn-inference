@@ -3,3 +3,5 @@ cmake-build-debug
 sample
 build
 .idea
+*.cpp
+*.h
